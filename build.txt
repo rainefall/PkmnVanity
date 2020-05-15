@@ -1,0 +1,9 @@
+author = sukoshijon
+version = 0.2
+displayName = Pokemon Vanity Mod
+homepage = http://forums.terraria.org/index.php?threads/pok%C3%A9mon-vanity.47305/
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .config\*
+includePDB = false
